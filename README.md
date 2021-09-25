@@ -1,0 +1,1 @@
+This repository contains vitejs examples.
